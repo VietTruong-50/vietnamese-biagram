@@ -1,7 +1,7 @@
 # Vietnamese Bigram Language Model
 
 Đây là bài tập xây dựng Mô hình ngôn ngữ N-gram (Bigram) cho tiếng Việt ở mức âm tiết.
-Chương trình được viết bằng Python, sử dụng phương pháp là trơn Add-1 (Laplace Smoothing).
+Chương trình được viết bằng Python, sử dụng phương pháp là Laplace Smoothing.
 
 ## Tính năng
 1. **Tự động tải dữ liệu**: Tự động tải về tập dữ liệu 10.000 câu tin tức tiếng Việt từ Leipzig Corpora (`vie_news_2020_10K.tar.gz`).
