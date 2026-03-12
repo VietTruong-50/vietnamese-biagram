@@ -1,0 +1,7 @@
+# Ignore data files
+vie_news_2020_10K.tar.gz
+vie_news_2020_10K-sentences.txt
+__pycache__/
+
+# Ignore claude-skill
+claude-skill/

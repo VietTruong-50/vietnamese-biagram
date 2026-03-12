@@ -1,0 +1,2 @@
+# Using standard libraries only, so no extra requirements are strictly necessary.
+# However, you can use pip install -r requirements.txt if you want to extend this later.
